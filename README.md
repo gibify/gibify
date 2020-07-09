@@ -14,5 +14,7 @@
 * HTML5
 * CSS3
 # Redes Socias:
-[![Linkedin Badge](https://img.shields.io/badge/-EvandroGibicoski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
-[![Twitter Badge](https://img.shields.io/badge/-EvandroGibicoski-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibify_official)](https://twitter.com/gibify_official)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibify_official)](https://twitter.com/gibify_official)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/gibifyOfficial)](https://www.facebook.com/gibifyOfficial)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gibify_official/)](https://www.instagram.com/gibify_official/)
