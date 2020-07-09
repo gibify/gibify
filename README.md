@@ -8,7 +8,7 @@
 
 ## Hello There! 
 
-### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema. Formado em Gestão em Tecnologia da Informação pela Universidade Unicesumar.
+### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema.
 
 ## Techs I am learning:
 
