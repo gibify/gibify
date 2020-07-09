@@ -13,8 +13,8 @@
 ## Techs I am learning:
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
-[![HTML Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=html&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
-[![CSS Badge](https://img.shields.io/badge/-CSS3-0000FF?style=flat-square&logo=css&logoColor=white&link=https://www.w3schools.com/css/default.asp)](https://www.w3schools.com/css/default.asp)
-[![Node Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-0000FF?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css/default.asp)](https://www.w3schools.com/css/default.asp)
+[![Node Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
 
