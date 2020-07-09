@@ -11,7 +11,9 @@
 ### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema. Formado em Gestão em Tecnologia da Informação pela Universidade Unicesumar.
 
 ## Techs I am learning:
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Nodejs&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![Node Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 * Nodejs
 * JavaScript
 * HTML5
