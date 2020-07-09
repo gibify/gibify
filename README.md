@@ -8,6 +8,11 @@
 # Formação:
 ### Gestão em Tecnologia da Informação pela Universidade Unicesumar.
 
+# Techs:
+* Nodejs
+* JavaScript
+* HTML5
+* CSS3
 # Redes Socias:
 
 ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fgibify_official)
