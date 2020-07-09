@@ -14,4 +14,5 @@
 * HTML5
 * CSS3
 # Redes Socias:
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=bule&style=social&url=https%3A%2F%2Ftwitter.com%2Fgibify_official)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fgibify_official)
+[![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
