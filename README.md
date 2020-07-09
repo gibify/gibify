@@ -14,5 +14,4 @@
 * HTML5
 * CSS3
 # Redes Socias:
-
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fgibify_official)
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=bule&style=social&url=https%3A%2F%2Ftwitter.com%2Fgibify_official)
