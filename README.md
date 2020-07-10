@@ -6,11 +6,11 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrogibicoski@gmail.com)](mailto:evandrogibicoski@gmail.com)
 
-## Hello! 💜
+# Hello! 💜
 
-### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema.
+#### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema.
 
-## Techs I am learning:
+### Techs I am learning:
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
