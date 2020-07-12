@@ -8,8 +8,7 @@
 
 # Hello! 💜
 
-#### Sou apaixonado por tecnologias, gosto de estar sempre por dentro desse universo dos algorítimos, minha paixão no momento é pelo JavaScript e todo o seu ecosistema.
-
+#### I am a Lover of technologies, I like to be in this algorithm universe, for the moment in love with JavaScript and your ecosystem.
 ### Techs I am learning:
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
