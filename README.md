@@ -6,7 +6,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrogibicoski@gmail.com)](mailto:evandrogibicoski@gmail.com)
 
-# Hello! 💜
+# Hi There! 😀
 
 #### I am a Lover of technologies, I like to be in this algorithm universe, for the moment in love with JavaScript and your ecosystem.
 ### Techs I am learning:
