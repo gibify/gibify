@@ -15,6 +15,6 @@
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-FF6600?style=flat-square&logo=HTML5&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-563d7c?style=flat-square&logo=CSS3&logoColor=white&link=https://www.w3schools.com/css/default.asp)](https://www.w3schools.com/css/default.asp)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=NodeJS&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-[![ReactJS Badge](https://img.shields.io/badge/-ReactJS-026e00?style=flat-square&logo=ReactJS&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
+[![ReactJS Badge](https://img.shields.io/badge/-ReactJS-61dafb?style=flat-square&logo=ReactJS&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 
 
