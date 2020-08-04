@@ -9,7 +9,7 @@
 # Hi There! 😀
 
 #### I am a Lover of technologies, I like to be in this algorithm universe, for the moment in love with JavaScript and your ecosystem.
-### I like to go to the Beach. Walking, Training, Listening to music, Reading, Watching TV, And Learning new Languages. I like so much the Nature, ocean, flowers, lifestyle...
+### I like to go to the Beach. Walking, Training, Listening to music, Reading, Watching TV, And Learning new Languages. I like so much the Nature, ocean, flowers, plants, health food, goodvibe, lifestyle...💜
 
 ### Techs I am learning:
 
