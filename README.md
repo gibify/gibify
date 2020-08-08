@@ -17,7 +17,7 @@
 ![css3](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
 ![javascript](https://github.com/gibify/gibify/blob/master/assets/javascript%201.png)
 ![reactJS](https://github.com/gibify/gibify/blob/master/assets/reactjs%201.png)
-![nodeJS]()
+![nodeJS](https://github.com/gibify/gibify/blob/master/assets/node%201.png)
 
 
 
