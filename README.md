@@ -13,8 +13,8 @@
 
 ### Techs I am learning:
 
-![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
-![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
+![html5](https://github.com/gibify/gibify/blob/master/assets/html5%201.png)
+![css3](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
 ![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
 ![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
 
