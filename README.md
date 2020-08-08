@@ -19,5 +19,8 @@
 ![reactJS](https://github.com/gibify/gibify/blob/master/assets/reactjs%201.png)
 ![nodeJS](https://github.com/gibify/gibify/blob/master/assets/node%201.png)
 
+### Graduation:
+
+# IT Managment
 
 
