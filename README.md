@@ -14,6 +14,9 @@
 ### Techs I am learning:
 
 ![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
+![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
+![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
+![](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)
 
 
 
