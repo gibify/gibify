@@ -1,5 +1,5 @@
 
-# EVANDRO PEREIRA GIBICOSKI
+# EVANDRO GIBICOSKI
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibify_official)](https://twitter.com/gibify_official)
