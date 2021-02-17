@@ -2,7 +2,7 @@
 # EVANDRO GIBICOSKI
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibify_official)](https://twitter.com/gibify_official)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibifyofficial)](https://twitter.com/gibifyofficial)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandrogibicoski@gmail.com)](mailto:evandrogibicoski@gmail.com)
 
