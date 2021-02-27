@@ -8,7 +8,8 @@
 
 # Hi There! 😀
 
-#### I am a Lover of technologies, I like to be in this algorithm universe, for the moment in love with JavaScript and your ecosystem.
+#### I am a Lover of technologies.
+I like to be in this algorithm universe, in the moment in love with JavaScript and your ecosystem.
 
 
 ### Techs I am learning:
