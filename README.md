@@ -1,10 +1,10 @@
 
 # EVANDRO GIBICOSKI, alias ***gibify***
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/gibifyofficial)](https://twitter.com/gibifyofficial)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-1ca0f1?style=flat-square&logo=Oultlook&logoColor=white&link=evandrogibicoski@outlook.com)](evandrogibicoski@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gibifyofficial/)](https://www.linkedin.com/in/gibifyofficial/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/gibifyofficial)](https://twitter.com/gibifyofficial)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)](https://api.whatsapp.com/send?phone=5548998463847&text=Obrigado%20pelo%20Contato!)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](evandrogibicoski@outlook.com)
 
 # Hi There! 😀
 
