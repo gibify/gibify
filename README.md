@@ -21,7 +21,6 @@ I like to be in this algorithm universe, in the moment in love with JavaScript a
 [![nextjs](https://github.com/gibify/gibify/blob/master/assets/nextjs.png)](https://nextjs.org/)
 [![typescript](https://github.com/gibify/gibify/blob/master/assets/typescript.png)](https://www.typescriptlang.org/)
 [![reactJS](https://github.com/gibify/gibify/blob/master/assets/reactjs%201.png)](https://reactjs.org/)
-[![nodeJS](https://github.com/gibify/gibify/blob/master/assets/node%201.png)](https://nodejs.org/en/)
 
 ### Graduation:
 
