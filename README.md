@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibifyofficial&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Techs I am learning:
+### Techs:
 
 [![html5](https://github.com/gibify/gibify/blob/master/assets/html5%201.png)](https://www.w3schools.com/html/default.asp)
 [![css3](https://github.com/gibify/gibify/blob/master/assets/css3%201.png)](https://www.w3schools.com/css/default.asp)
