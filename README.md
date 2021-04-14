@@ -11,7 +11,7 @@
 
 # Hi There! 😀
 
-## I am a Lover of technologies. I like to be in this algorithm universe.
+## Passion for technologies. I like to be in this algorithm universe.
 
 <!--
 **Evandro Gibicoski/gibifyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
