@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibifyofficial&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Graduation:
+### Degree:
 
-# IT Managment
+# Information Technology Managment
+
+### Postgraduate Student:
+
+# Software Engineering - MBA
 
 ### Role
 
