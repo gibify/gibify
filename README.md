@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 # Front-End Developer
 
-### Contact me on [@gibifyofficial](https://www.gibify.me/)
+
