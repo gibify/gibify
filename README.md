@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Information Technology Managment
 
-### Postgraduate Student:
+### Postgraduate:
 
 # Software Engineering - MBA
 
