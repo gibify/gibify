@@ -17,8 +17,8 @@
 - Familiarity with frontend build frameworks such as React and Next;
 - Familiarity with Typescript;
 - Familiarity with Tailwind CSS, Chakra UI, CSS Modules, and Styled Components;
-- Familiarity with the writing of unit tests and frontend regression testing automation patterns;
-- Familiarity with user testing methods and optimization of the user journey.;
+- Familiarity with the writing of unit tests and frontend regression testing automation patterns using Jest and Testing Library;
+- Familiarity with user testing methods and optimization of the user journey;
 - Familiar with principles of design, ability to work with a team to plan and design interfaces ahead of development;
 - Familiar with principles of CEO, Accessibility, and Performance.
 - Familiarity with principles of secure authentication and client-side cybersecurity;
