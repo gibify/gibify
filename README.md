@@ -19,8 +19,8 @@
 - Familiarity with Tailwind CSS, Chakra UI, CSS Modules, and Styled Components;
 - Familiarity with the writing of unit tests and frontend regression testing automation patterns using Jest and Testing Library;
 - Familiarity with user testing methods and optimization of the user journey;
-- Familiar with principles of design, ability to work with a team to plan and design interfaces ahead of development;
-- Familiar with principles of SEO, Accessibility, and Performance.
+- Familiarity with principles of design, ability to work with a team to plan and design interfaces ahead of development;
+- Familiarity with principles of SEO, Accessibility, and Performance.
 - Familiarity with principles of secure authentication and client-side cybersecurity;
 - Familiarity with Git and Github;
 #
