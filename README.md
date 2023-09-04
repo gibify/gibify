@@ -14,7 +14,7 @@
 - 3+ years of industry experience developing web application interfaces;
 - Adept with vanilla HTML, CSS, and Javascript;
 - Adept with ES6 and JSX syntax;
-- Familiarity with frontend build frameworks such as React.js [Props, States, Hooks, Suspense] and Next.js [App Router and Pages Router];
+- Familiarity with frontend build frameworks such as React.js [Props, States, Hooks, Suspense] and Next.js [Pages Router and App Router];
 - Familiarity with Typescript;
 - Familiarity with Tailwind CSS, Chakra UI, CSS Modules, and Styled Components;
 - Familiarity with the writing of unit tests and frontend regression testing automation patterns using Jest and Testing Library;
