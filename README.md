@@ -1,16 +1,9 @@
 
 ## Main Stacks
 
-<a href="https://react.dev/"  target="_blank">
-  <img align="center" alt="React.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/reactjs-icon.webp" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img align="center" alt="Next.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/nextjs-icon.webp" />
-</a>
-<a href="https://www.electronjs.org/" target="_blank">
-  <img align="center" alt="Electron.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/electronjs-icon.webp">
-</a>
-
+[![React.js](https://github.com/gibifydev/gibify/blob/master/assets/reactjs-icon.webp)](https://react.dev/)
+[![Next.js](https://github.com/gibifydev/gibify/blob/master/assets/nextjs-icon.webp)](https://nextjs.org/)
+[![Electron.js](https://github.com/gibifydev/gibify/blob/master/assets/electronjs-icon.webp)](https://www.electronjs.org/)
 
 #
 - 4+ years of industry experience developing web application interfaces;
