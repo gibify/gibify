@@ -8,7 +8,7 @@
  <img src="https://github.com/gibifydev/gibify/blob/master/assets/next.js.svg" width="50px" height="50px"/>
 </a>
 <a href="https://www.electronjs.org/">
- <img src="https://github.com/gibifydev/gibify/blob/master/assets/electronjs-icon.webp" width="100px" height="100px"/>
+ <img src="https://github.com/gibifydev/gibify/blob/master/assets/electron.js.svg" width="50px" height="50px"/>
 </a>
 
 #
