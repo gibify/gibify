@@ -1,17 +1,19 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gibify&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-<img align="center" alt="gibify-ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-<img align="center" alt="gibify-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="gibify-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="gibify-next" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align="center" alt="gibify-electron" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
-<img align="center" alt="gibify-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="gibify-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>  
+## Main Stacks
+
+<a href="https://react.dev/"  target="_blank">
+  <img align="center" alt="React.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/reactjs-icon.webp" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img align="center" alt="Next.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/nextjs-icon.webp" />
+</a>
+<a href="https://www.electronjs.org/" target="_blank">
+  <img align="center" alt="Electron.js" height="100" width="100" src="https://github.com/gibifydev/gibify/blob/master/assets/electronjs-icon.webp">
+</a>
+
 
 #
-- 3+ years of industry experience developing web application interfaces;
+- 4+ years of industry experience developing web application interfaces;
 - Adept with vanilla HTML, CSS, and Javascript;
 - Adept with ES6 and JSX syntax;
 - Familiarity with frontend build frameworks such as React.js [Props, States, Hooks, Server Components and Suspense] and Next.js [Pages Router and App Router];
