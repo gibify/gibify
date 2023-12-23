@@ -2,7 +2,7 @@
 ## Main Stacks
 
 <a href="https://react.dev/">
- <img src="https://github.com/gibifydev/gibify/blob/master/assets/reactjs-icon.webp"  width="100px" height="100px"/>
+ <img src="https://github.com/gibifydev/gibify/blob/master/assets/react.js.svg"  width="50px" height="50px"/>
 </a>
 <a href="https://nextjs.org/">
  <img src="https://github.com/gibifydev/gibify/blob/master/assets/nextjs-icon.webp" width="100px" height="100px"/>
