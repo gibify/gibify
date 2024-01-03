@@ -1,16 +1,4 @@
 
-## Main Stacks
-
-<a href="https://react.dev/">
- <img src="https://github.com/gibifydev/gibify/blob/master/assets/react.js.svg"  width="50px" height="50px"/>
-</a>
-<a href="https://nextjs.org/">
- <img src="https://github.com/gibifydev/gibify/blob/master/assets/next.js.svg" width="50px" height="50px"/>
-</a>
-<a href="https://www.electronjs.org/">
- <img src="https://github.com/gibifydev/gibify/blob/master/assets/electron.js.svg" width="50px" height="50px"/>
-</a>
-
 #
 - 4+ years of industry experience developing web application interfaces;
 - Adept with vanilla HTML, CSS, and Javascript;
