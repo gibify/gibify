@@ -11,6 +11,6 @@
 
 # Frontend Developer
 
-### [Contact me here](https://www.gibify.link/me)
+### [Contact](https://www.gibify.link/me)
 
 
